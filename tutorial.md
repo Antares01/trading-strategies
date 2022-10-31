@@ -4,8 +4,7 @@ QuantConnect is a browser-based algorithmic trading platform based on the LEAN a
 
 ### LEAN Installation
 
-Install LEAN from https://github.com/QuantConnect/Lean. For more information consult the [*Getting Started*](https://www.lean.io/docs/v2/lean-engine/getting-started) 
-section of the LEAN documentation. The LEAN documentation can be found at https://www.lean.io/docs/v2.
+Install LEAN CLI from https://github.com/QuantConnect/lean-cli. For more information consult the [*Getting Started*](https://www.lean.io/docs/v2/lean-cli/key-concepts/getting-started) section of the LEAN CLI documentation. The LEAN documentation can be found at https://www.lean.io/docs/v2. 
 
 ### The QuantConnect API
 The [*Writing Algorithms*](https://www.quantconnect.com/docs/v2/writing-algorithms) section of the [QuantConnect documentation](https://www.quantconnect.com/docs/v2) 
